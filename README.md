@@ -1,4 +1,4 @@
-backup
+backup script med dato og zip
 
 moduler brugt:
 from datetime import datetime
